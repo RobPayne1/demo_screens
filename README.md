@@ -1,6 +1,6 @@
 # demo_screens
 
-A new Flutter project.
+A Flutter project to demo the introduction screen package. 
 
 ## Getting Started
 
